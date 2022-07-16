@@ -5,5 +5,6 @@ public class GitTest {
         String str = "hello git2";
         System.out.println(str);
         System.out.println(str);
+        System.out.println(str+str);
     }
 }

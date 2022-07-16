@@ -2,6 +2,8 @@ package com.xbory.git;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("hello git!");
+        String str = "hello git2";
+        System.out.println(str);
+        System.out.println(str);
     }
 }
